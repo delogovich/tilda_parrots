@@ -1,0 +1,11 @@
+Model Information:
+* title:	Parrots of the Caribbean
+* source:	https://sketchfab.com/3d-models/parrots-of-the-caribbean-f23c612a59d24a5c967ce62a9d0b1984
+* author:	Eleni Kofekidou (https://sketchfab.com/EleniKofekidou)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Parrots of the Caribbean" (https://sketchfab.com/3d-models/parrots-of-the-caribbean-f23c612a59d24a5c967ce62a9d0b1984) by Eleni Kofekidou (https://sketchfab.com/EleniKofekidou) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
